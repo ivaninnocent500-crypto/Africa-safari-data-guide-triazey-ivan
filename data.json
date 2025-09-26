@@ -1,0 +1,38 @@
+{
+  "flights": [
+    {
+      "id": "F001",
+      "airline": "Kenya Airways",
+      "route": "NBO → JNB",
+      "price": 350.00,
+      "currency": "USD",
+      "affiliateUrl": "YOUR_KENYA_AIRWAYS_AFFILIATE_LINK" 
+    },
+    {
+      "id": "F002",
+      "airline": "Ethiopian Airlines",
+      "route": "ADD → LOS",
+      "price": 410.00,
+      "currency": "USD",
+      "affiliateUrl": "YOUR_ETHIOPIAN_AIRLINES_AFFILIATE_LINK"
+    }
+  ],
+  "hotels": [
+    {
+      "id": "H001",
+      "name": "Serengeti Safari Camp",
+      "location": "Tanzania",
+      "pricePerNight": 280.00,
+      "currency": "USD",
+      "affiliateUrl": "YOUR_BOOKING_AFFILIATE_LINK"
+    },
+    {
+      "id": "H002",
+      "name": "Cape Grace Hotel",
+      "location": "South Africa",
+      "pricePerNight": 450.00,
+      "currency": "USD",
+      "affiliateUrl": "YOUR_BOOKING_AFFILIATE_LINK"
+    }
+  ]
+}
