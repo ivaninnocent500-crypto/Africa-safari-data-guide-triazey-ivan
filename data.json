@@ -1,38 +1,103 @@
-{
-  "flights": [
-    {
-      "id": "F001",
-      "airline": "Kenya Airways",
-      "route": "NBO → JNB",
-      "price": 350.00,
-      "currency": "USD",
-      "affiliateUrl": "YOUR_KENYA_AIRWAYS_AFFILIATE_LINK" 
-    },
-    {
-      "id": "F002",
-      "airline": "Ethiopian Airlines",
-      "route": "ADD → LOS",
-      "price": 410.00,
-      "currency": "USD",
-      "affiliateUrl": "YOUR_ETHIOPIAN_AIRLINES_AFFILIATE_LINK"
-    }
-  ],
-  "hotels": [
-    {
-      "id": "H001",
-      "name": "Serengeti Safari Camp",
-      "location": "Tanzania",
-      "pricePerNight": 250.00,
-      "currency": "USD",
-      "affiliateUrl": "YOUR_BOOKING_AFFILIATE_LINK"
-    },
-    {
-      "id": "H002",
-      "name": "Cape Grace Hotel",
-      "location": "South Africa",
-      "pricePerNight": 450.00,
-      "currency": "USD",
-      "affiliateUrl": "YOUR_BOOKING_AFFILIATE_LINK"
-    }
-  ]
+{  
+  "flights": [  
+    {  
+      "id": "F001",  
+      "airline": "Kenya Airways",  
+      "route": "NBO → JNB",  
+      "price": 350.00,  
+      "currency": "USD",  
+      "affiliateUrl": "YOUR_KENYA_AIRWAYS_AFFILIATE_LINK"   
+    },  
+    {  
+      "id": "F002",  
+      "airline": "Ethiopian Airlines",  
+      "route": "ADD → LOS",  
+      "price": 410.00,  
+      "currency": "USD",  
+      "affiliateUrl": "YOUR_ETHIOPIAN_AIRLINES_AFFILIATE_LINK"  
+    },  
+    {  
+      "id": "F003",  
+      "airline": "RwandAir",  
+      "route": "KGL → CPT",  
+      "price": 380.00,  
+      "currency": "USD",  
+      "affiliateUrl": "YOUR_RWANDAIR_AFFILIATE_LINK"  
+    },  
+    {  
+      "id": "F004",  
+      "airline": "South African Airways",  
+      "route": "JNB → CAI",  
+      "price": 420.00,  
+      "currency": "USD",  
+      "affiliateUrl": "YOUR_SAA_AFFILIATE_LINK"  
+    },  
+    {  
+      "id": "F005",  
+      "airline": "EgyptAir",  
+      "route": "CAI → NBO",  
+      "price": 395.00,  
+      "currency": "USD",  
+      "affiliateUrl": "YOUR_EGYPTAIR_AFFILIATE_LINK"  
+    },  
+    {  
+      "id": "F006",  
+      "airline": "Air Tanzania",  
+      "route": "DAR → ZNZ",  
+      "price": 95.00,  
+      "currency": "USD",  
+      "affiliateUrl": "YOUR_AIR_TANZANIA_AFFILIATE_LINK"  
+    }  
+  ],  
+
+  "hotels": [  
+    {  
+      "id": "H001",  
+      "name": "Serengeti Safari Camp",  
+      "location": "Tanzania",  
+      "pricePerNight": 280.00,  
+      "currency": "USD",  
+      "affiliateUrl": "YOUR_BOOKING_AFFILIATE_LINK"  
+    },  
+    {  
+      "id": "H002",  
+      "name": "Cape Grace Hotel",  
+      "location": "South Africa",  
+      "pricePerNight": 450.00,  
+      "currency": "USD",  
+      "affiliateUrl": "YOUR_BOOKING_AFFILIATE_LINK"  
+    },  
+    {  
+      "id": "H003",  
+      "name": "The Royal Livingstone Hotel",  
+      "location": "Zambia",  
+      "pricePerNight": 370.00,  
+      "currency": "USD",  
+      "affiliateUrl": "YOUR_BOOKING_AFFILIATE_LINK"  
+    },  
+    {  
+      "id": "H004",  
+      "name": "Mövenpick Ambassador Hotel",  
+      "location": "Ghana",  
+      "pricePerNight": 220.00,  
+      "currency": "USD",  
+      "affiliateUrl": "YOUR_BOOKING_AFFILIATE_LINK"  
+    },  
+    {  
+      "id": "H005",  
+      "name": "Fairmont The Norfolk",  
+      "location": "Kenya",  
+      "pricePerNight": 310.00,  
+      "currency": "USD",  
+      "affiliateUrl": "YOUR_BOOKING_AFFILIATE_LINK"  
+    },  
+    {  
+      "id": "H006",  
+      "name": "La Mamounia",  
+      "location": "Morocco",  
+      "pricePerNight": 490.00,  
+      "currency": "USD",  
+      "affiliateUrl": "YOUR_BOOKING_AFFILIATE_LINK"  
+    }  
+  ]  
 }
