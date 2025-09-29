@@ -9,9 +9,9 @@
       "affiliateUrl": "https://www.kenya-airways.com/",
       "description": "Popular route for business and safari connections in East and Southern Africa.",
       "imageUrls": [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/cd/51/ec/kenya-airways.jpg?w=1200&h=-1&s=1",
-        "https://liveandletsfly.com/wp-content/uploads/2023/05/Kenya-Airways-787-8-Economy-Class-Review-13.jpeg",
-        "https://cisp.cachefly.net/assets/articles/images/resized/0000917374_resized_jomokenyatteairportlua0120211022.jpg"
+        "flight_kq_1",
+        "flight_kq_2",
+        "airport_nbo"
       ]
     },
     {
@@ -23,9 +23,9 @@
       "affiliateUrl": "https://www.ethiopianairlines.com/",
       "description": "Key West Africa link via the major Ethiopian Airlines hub.",
       "imageUrls": [
-        "https://yourgithub.com/assets/flight_et_1.jpg",
-        "https://yourgithub.com/assets/flight_et_2.jpg",
-        "https://yourgithub.com/assets/los_airport.jpg"
+        "flight_et_1",
+        "flight_et_2",
+        "airport_los"
       ]
     },
     {
@@ -37,9 +37,9 @@
       "affiliateUrl": "https://www.rwandair.com/",
       "description": "Excellent service connecting East Africa (Rwanda) to South Africa's scenic city.",
       "imageUrls": [
-        "https://yourgithub.com/assets/flight_wb_1.jpg",
-        "https://yourgithub.com/assets/flight_wb_2.jpg",
-        "https://yourgithub.com/assets/cpt_airport.jpg"
+        "flight_wb_1",
+        "flight_wb_2",
+        "airport_cpt"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "affiliateUrl": "https://www.flysaa.com/",
       "description": "The major continental long-haul linking Southern and Northern Africa.",
       "imageUrls": [
-        "https://yourgithub.com/assets/flight_sa_1.jpg",
-        "https://yourgithub.com/assets/flight_sa_2.jpg",
-        "https://yourgithub.com/assets/jnb_airport.jpg"
+        "flight_sa_1",
+        "flight_sa_2",
+        "airport_jnb"
       ]
     },
     {
@@ -65,9 +65,9 @@
       "affiliateUrl": "https://www.egyptair.com/",
       "description": "Historical route connecting ancient Egypt with the modern safari capital.",
       "imageUrls": [
-        "https://yourgithub.com/assets/flight_ms_1.jpg",
-        "https://yourgithub.com/assets/flight_ms_2.jpg",
-        "https://yourgithub.com/assets/cai_airport.jpg"
+        "flight_ms_1",
+        "flight_ms_2",
+        "airport_cai"
       ]
     },
     {
@@ -79,9 +79,9 @@
       "affiliateUrl": "https://www.airtanzania.co.tz/",
       "description": "Short hop to the Spice Island. Perfect for a quick beach getaway.",
       "imageUrls": [
-        "https://yourgithub.com/assets/flight_tc_1.jpg",
-        "https://yourgithub.com/assets/dar_znz.jpg",
-        "https://yourgithub.com/assets/znz_beach.jpg"
+        "flight_tc_1",
+        "dar_znz",
+        "znz_beach"
       ]
     },
     {
@@ -93,9 +93,9 @@
       "affiliateUrl": "https://www.ghanaairways.com/",
       "description": "Major long-haul route connecting West Africa to Europe.",
       "imageUrls": [
-        "https://yourgithub.com/assets/flight_gh_1.jpg",
-        "https://yourgithub.com/assets/flight_gh_2.jpg",
-        "https://yourgithub.com/assets/acc_airport.jpg"
+        "flight_gh_1",
+        "flight_gh_2",
+        "airport_acc"
       ]
     },
     {
@@ -107,9 +107,9 @@
       "affiliateUrl": "https://www.proflight-zambia.com/",
       "description": "Essential Southern African regional link for business and tourism.",
       "imageUrls": [
-        "https://yourgithub.com/assets/flight_pf_1.jpg",
-        "https://yourgithub.com/assets/flight_pf_2.jpg",
-        "https://yourgithub.com/assets/lun_airport.jpg"
+        "flight_pf_1",
+        "flight_pf_2",
+        "airport_lun"
       ]
     }
   ],
@@ -123,11 +123,11 @@
       "affiliateUrl": "https://www.sanctuaryretreats.com/serengeti-migration-camp",
       "description": "Experience the Great Migration up close in a premium tented camp.",
       "imageUrls": [
-        "https://yourgithub.com/assets/hotel_serengeti_1.jpg",
-        "https://yourgithub.com/assets/hotel_serengeti_2.jpg",
-        "https://yourgithub.com/assets/hotel_serengeti_3.jpg",
-        "https://yourgithub.com/assets/hotel_serengeti_4.jpg",
-        "https://yourgithub.com/assets/hotel_serengeti_5.jpg"
+        "hotel_serengeti_1",
+        "hotel_serengeti_2",
+        "hotel_serengeti_3",
+        "hotel_serengeti_4",
+        "hotel_serengeti_5"
       ]
     },
     {
@@ -139,11 +139,11 @@
       "affiliateUrl": "https://www.capegrace.com/",
       "description": "Iconic luxury at the V&A Waterfront with stunning Table Mountain views.",
       "imageUrls": [
-        "https://yourgithub.com/assets/hotel_capegrace_1.jpg",
-        "https://yourgithub.com/assets/hotel_capegrace_2.jpg",
-        "https://yourgithub.com/assets/hotel_capegrace_3.jpg",
-        "https://yourgithub.com/assets/hotel_capegrace_4.jpg",
-        "https://yourgithub.com/assets/hotel_capegrace_5.jpg"
+        "hotel_capegrace_1",
+        "hotel_capegrace_2",
+        "hotel_capegrace_3",
+        "hotel_capegrace_4",
+        "hotel_capegrace_5"
       ]
     },
     {
@@ -155,11 +155,11 @@
       "affiliateUrl": "https://www.anantara.com/en/royal-livingstone",
       "description": "Walk to Victoria Falls from this elegant colonial-style hotel, perfect for honeymooners.",
       "imageUrls": [
-        "https://yourgithub.com/assets/hotel_livingstone_1.jpg",
-        "https://yourgithub.com/assets/hotel_livingstone_2.jpg",
-        "https://yourgithub.com/assets/hotel_livingstone_3.jpg",
-        "https://yourgithub.com/assets/hotel_livingstone_4.jpg",
-        "https://yourgithub.com/assets/hotel_livingstone_5.jpg"
+        "hotel_livingstone_1",
+        "hotel_livingstone_2",
+        "hotel_livingstone_3",
+        "hotel_livingstone_4",
+        "hotel_livingstone_5"
       ]
     },
     {
@@ -171,11 +171,11 @@
       "affiliateUrl": "https://www.movenpick.com/en/africa/ghana/accra/hotel-ambassador-accra",
       "description": "Centrally located modern hotel popular with business travelers and family fun.",
       "imageUrls": [
-        "https://yourgithub.com/assets/hotel_accra_1.jpg",
-        "https://yourgithub.com/assets/hotel_accra_2.jpg",
-        "https://yourgithub.com/assets/hotel_accra_3.jpg",
-        "https://yourgithub.com/assets/hotel_accra_4.jpg",
-        "https://yourgithub.com/assets/hotel_accra_5.jpg"
+        "hotel_accra_1",
+        "hotel_accra_2",
+        "hotel_accra_3",
+        "hotel_accra_4",
+        "hotel_accra_5"
       ]
     },
     {
@@ -187,11 +187,11 @@
       "affiliateUrl": "https://www.fairmont.com/norfolk-hotel-nairobi/",
       "description": "Historic, colonial-era luxury hotel in the heart of Nairobi.",
       "imageUrls": [
-        "https://yourgithub.com/assets/hotel_norfolk_1.jpg",
-        "https://yourgithub.com/assets/hotel_norfolk_2.jpg",
-        "https://yourgithub.com/assets/hotel_norfolk_3.jpg",
-        "https://yourgithub.com/assets/hotel_norfolk_4.jpg",
-        "https://yourgithub.com/assets/hotel_norfolk_5.jpg"
+        "hotel_norfolk_1",
+        "hotel_norfolk_2",
+        "hotel_norfolk_3",
+        "hotel_norfolk_4",
+        "hotel_norfolk_5"
       ]
     },
     {
@@ -203,11 +203,11 @@
       "affiliateUrl": "https://www.mamounia.com/",
       "description": "World-renowned palace hotel offering an opulent Moroccan experience.",
       "imageUrls": [
-        "https://yourgithub.com/assets/hotel_mamounia_1.jpg",
-        "https://yourgithub.com/assets/hotel_mamounia_2.jpg",
-        "https://yourgithub.com/assets/hotel_mamounia_3.jpg",
-        "https://yourgithub.com/assets/hotel_mamounia_4.jpg",
-        "https://yourgithub.com/assets/hotel_mamounia_5.jpg"
+        "hotel_mamounia_1",
+        "hotel_mamounia_2",
+        "hotel_mamounia_3",
+        "hotel_mamounia_4",
+        "hotel_mamounia_5"
       ]
     },
     {
@@ -219,11 +219,11 @@
       "affiliateUrl": "https://www.marriott.com/hotels/travel/addsi-sheraton-addis-a-luxury-collection-hotel-addis-ababa/",
       "description": "An opulent, landmark hotel popular with diplomats and international travelers.",
       "imageUrls": [
-        "https://yourgithub.com/assets/hotel_sheratonaddis_1.jpg",
-        "https://yourgithub.com/assets/hotel_sheratonaddis_2.jpg",
-        "https://yourgithub.com/assets/hotel_sheratonaddis_3.jpg",
-        "https://yourgithub.com/assets/hotel_sheratonaddis_4.jpg",
-        "https://yourgithub.com/assets/hotel_sheratonaddis_5.jpg"
+        "hotel_sheratonaddis_1",
+        "hotel_sheratonaddis_2",
+        "hotel_sheratonaddis_3",
+        "hotel_sheratonaddis_4",
+        "hotel_sheratonaddis_5"
       ]
     },
     {
@@ -235,11 +235,11 @@
       "affiliateUrl": "https://www.riadyasmine.com/",
       "description": "A popular, intimate boutique Riad providing a traditional Moroccan stay.",
       "imageUrls": [
-        "https://yourgithub.com/assets/hotel_yasmine_1.jpg",
-        "https://yourgithub.com/assets/hotel_yasmine_2.jpg",
-        "https://yourgithub.com/assets/hotel_yasmine_3.jpg",
-        "https://yourgithub.com/assets/hotel_yasmine_4.jpg",
-        "https://yourgithub.com/assets/hotel_yasmine_5.jpg"
+        "hotel_yasmine_1",
+        "hotel_yasmine_2",
+        "hotel_yasmine_3",
+        "hotel_yasmine_4",
+        "hotel_yasmine_5"
       ]
     },
     {
@@ -251,11 +251,11 @@
       "affiliateUrl": "https://www.anantara.com/en/bazaruto-island",
       "description": "Exclusive island resort with world-class diving and pristine beaches.",
       "imageUrls": [
-        "https://yourgithub.com/assets/hotel_bazaruto_1.jpg",
-        "https://yourgithub.com/assets/hotel_bazaruto_2.jpg",
-        "https://yourgithub.com/assets/hotel_bazaruto_3.jpg",
-        "https://yourgithub.com/assets/hotel_bazaruto_4.jpg",
-        "https://yourgithub.com/assets/hotel_bazaruto_5.jpg"
+        "hotel_bazaruto_1",
+        "hotel_bazaruto_2",
+        "hotel_bazaruto_3",
+        "hotel_bazaruto_4",
+        "hotel_bazaruto_5"
       ]
     }
   ],
@@ -268,7 +268,7 @@
       "priceIndicator": "From $120",
       "affiliateUrl": "https://www.getyourguide.com/?partner_id=OCJRBS7&cmp=share_to_earn&q=Kruger%20National%20Park%20Safari%20Day%20Trip",
       "description": "Full-day guided wildlife viewing adventure in the iconic Kruger park. Great for nature lovers.",
-      "imageUrl": "https://yourgithub.com/assets/activity_kruger.jpg"
+      "imageUrl": "activity_kruger"
     },
     {
       "id": "A002",
@@ -278,7 +278,7 @@
       "priceIndicator": "From $75",
       "affiliateUrl": "https://www.getyourguide.com/?partner_id=OCJRBS7&cmp=share_to_earn&q=Marrakech%20Medina%20Tour%20%26%20Cooking%20Class",
       "description": "Explore the souks and learn the secrets of Moroccan cuisine. A family fun experience.",
-      "imageUrl": "https://yourgithub.com/assets/activity_marrakech.jpg"
+      "imageUrl": "activity_marrakech"
     },
     {
       "id": "A003",
@@ -288,7 +288,7 @@
       "priceIndicator": "From $160",
       "affiliateUrl": "https://www.getyourguide.com/?partner_id=OCJRBS7&cmp=share_to_earn&q=Victoria%20Falls%20Bungee%20Jump%20Experience",
       "description": "The ultimate adrenaline rush over the Zambezi River gorge. Pure adventure.",
-      "imageUrl": "https://yourgithub.com/assets/activity_bungee.jpg"
+      "imageUrl": "activity_bungee"
     },
     {
       "id": "A004",
@@ -298,7 +298,7 @@
       "priceIndicator": "From $55",
       "affiliateUrl": "https://www.getyourguide.com/?partner_id=OCJRBS7&cmp=share_to_earn&q=Great%20Pyramids%20of%20Giza%20Half-Day%20Tour",
       "description": "See the ancient wonders of the world with a professional guide and optional camel ride.",
-      "imageUrl": "https://yourgithub.com/assets/activity_pyramids.jpg"
+      "imageUrl": "activity_pyramids"
     },
     {
       "id": "A005",
@@ -308,7 +308,7 @@
       "priceIndicator": "From $40",
       "affiliateUrl": "https://www.getyourguide.com/?partner_id=OCJRBS7&cmp=share_to_earn&q=Stone%20Town%20History%20Walking%20Tour",
       "description": "Discover the unique blend of cultures in Zanzibar's capital. Good for birdwatchers and history buffs.",
-      "imageUrl": "https://yourgithub.com/assets/activity_stone_town.jpg"
+      "imageUrl": "activity_stone_town"
     },
     {
       "id": "A006",
@@ -318,7 +318,7 @@
       "priceIndicator": "From $90",
       "affiliateUrl": "https://www.getyourguide.com/?partner_id=OCJRBS7&cmp=share_to_earn&q=Boat%20Trip%20to%20Ile%20Sainte-Marie",
       "description": "Explore the pirate history and pristine beaches of Madagascar's eastern coast.",
-      "imageUrl": "https://yourgithub.com/assets/activity_madagascar.jpg"
+      "imageUrl": "activity_madagascar"
     },
     {
       "id": "A007",
@@ -328,7 +328,7 @@
       "priceIndicator": "From $65",
       "affiliateUrl": "https://www.getyourguide.com/?partner_id=OCJRBS7&cmp=share_to_earn&q=Red%20Sea%20Scuba%20Diving%20Snorkeling%20Day%20Trip",
       "description": "Explore vibrant coral reefs and marine life in the clear waters of the Red Sea. Good for families.",
-      "imageUrl": "https://yourgithub.com/assets/activity_redsea_diving.jpg"
+      "imageUrl": "activity_redsea_diving"
     },
     {
       "id": "A008",
@@ -338,7 +338,7 @@
       "priceIndicator": "From $30",
       "affiliateUrl": "https://www.getyourguide.com/?partner_id=OCJRBS7&cmp=share_to_earn&q=Table%20Mountain%20Aerial%20Cableway%20Ticket",
       "description": "Essential Cape Town experience, offering panoramic views of the city and coastline.",
-      "imageUrl": "https://yourgithub.com/assets/activity_table_mountain.jpg"
+      "imageUrl": "activity_table_mountain"
     },
     {
       "id": "A009",
@@ -348,7 +348,7 @@
       "priceIndicator": "From $45",
       "affiliateUrl": "https://www.getyourguide.com/?partner_id=OCJRBS7&cmp=share_to_earn&q=Goree%20Island%20Historical%20Tour%20from%20Dakar",
       "description": "A sobering but important visit to the former slave trading post, rich with West African history.",
-      "imageUrl": "https://yourgithub.com/assets/activity_goree_island.jpg"
+      "imageUrl": "activity_goree_island"
     },
     {
       "id": "A010",
@@ -358,7 +358,7 @@
       "priceIndicator": "From $150 (multi-day)",
       "affiliateUrl": "https://www.getyourguide.com/?partner_id=OCJRBS7&cmp=share_to_earn&q=Simien%20Mountains%20National%20Park%20Trek",
       "description": "Trekking in the 'Roof of Africa' to see unique wildlife like the Gelada baboon and Walia ibex.",
-      "imageUrl": "https://yourgithub.com/assets/activity_simien.jpg"
+      "imageUrl": "activity_simien"
     }
   ]
 }
